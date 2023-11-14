@@ -1,7 +1,7 @@
 .collapse {
   margin-bottom: 10px;
   &-b {
-    padding: 0 20px 0 20px;
+    padding: 8px 20px 8px 20px;
     &__show {
       animation-name: showtext;
       animation-duration: 1000ms;
@@ -35,7 +35,7 @@
       font-size: 24px;
       font-weight: 500;
       color: rgba(255, 255, 255, 1);
-      margin-block: 0;
+      //margin-block: 0;
     }
     &__svg {
       width: 30px;
@@ -54,7 +54,7 @@
   .collapse {
     margin-bottom: 10px;
     &-b {
-      padding-left: 20px;
+      padding: 6px 15px 6px 15px;
       &-p2 {
         font-size: 12px;
         font-weight: 400;
